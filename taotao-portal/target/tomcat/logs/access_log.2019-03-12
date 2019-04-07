@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:08 +0800] "GET / HTTP/1.1" 200 110743 http-bio-8082-exec-1 5397
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:15 +0800] "GET /search.html?q=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 62412 http-bio-8082-exec-3 1078
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:19 +0800] "GET /item/1039296.html HTTP/1.1" 200 32971 http-bio-8082-exec-4 649
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:21 +0800] "GET /item/desc/1039296.html HTTP/1.1" 200 13 http-bio-8082-exec-5 68
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:21 +0800] "GET /cart/add/1039296.html HTTP/1.1" 302 - http-bio-8082-exec-6 36
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:21 +0800] "GET /cart/success.html HTTP/1.1" 200 18221 http-bio-8082-exec-7 146
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:21 +0800] "GET /css/i/20130425D.png HTTP/1.1" 404 989 http-bio-8082-exec-8 3
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:23 +0800] "GET /cart/cart.html HTTP/1.1" 200 18087 http-bio-8082-exec-9 245
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:25 +0800] "GET /order/order-cart.html HTTP/1.1" 200 24348 http-bio-8082-exec-10 336
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:59 +0800] "POST /order/create.html HTTP/1.1" 200 7368 http-bio-8082-exec-10 31930
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:59 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 200 3121 http-bio-8082-exec-4 121
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:59 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 200 13339 http-bio-8082-exec-2 264
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:02:59 +0800] "GET /css/purchase.sop.css HTTP/1.1" 200 9885 http-bio-8082-exec-3 257
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:03:00 +0800] "GET /images/icon48.png HTTP/1.1" 200 391 http-bio-8082-exec-3 119
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:03:00 +0800] "GET /images/flow.gif HTTP/1.1" 200 818 http-bio-8082-exec-2 237

@@ -1,0 +1,7 @@
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\pojo\Order.java
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
+E:\workspace\javaproject01\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientSingle.java
